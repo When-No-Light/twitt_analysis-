@@ -8,4 +8,8 @@
 ####     **Cluster 0** => Lots of tweets about the war in Ukraine, debates about politics, discussion of food issues related to the war
 ####     **Cluster 1** => Tweets on various topics with mention of the word war, loosely related
 ####     **Cluster 2** => Discussing computer games with the word War in the title, problems with crime and the legalization of weapons.
-### 4. Model training on prelabeled data (LinearSVC, Naive Bayes, Logistic Regression, NN, BERT)
+### 4. Model training on prelabeled data (LinearSVC, Naive Bayes, Logistic Regression, NN)
+
+
+
+(The CSV file contains only vectorized sentences and labels in order to take up less memory.)
